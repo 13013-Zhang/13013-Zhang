@@ -2,12 +2,10 @@
   
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
-    <a href="https://github.com/13013-Zhang">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);My name is 13013-Zhang&center=true&size=27" alt="Typing SVG" />
-    </a>
+    <a href="https://github.com/13013-Zhang"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=My+name+is+13013-Zhang" alt="Typing SVG" /></a>
   </div>
 
- <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+ <img src="![coding](images/coding.gif)" /><br>
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
