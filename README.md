@@ -5,7 +5,7 @@
     <a href="https://github.com/13013-Zhang"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=My+name+is+13013-Zhang" alt="Typing SVG" /></a>
   </div>
 
- <img src="![coding](images/coding.gif)" /><br>
+ <img src="https://github.com/13013-Zhang/13013-Zhang/blob/main/images/coding.gif" /><br>
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
